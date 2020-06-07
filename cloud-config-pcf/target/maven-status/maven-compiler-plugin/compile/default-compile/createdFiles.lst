@@ -1,0 +1,3 @@
+com\cloud\pcf\cloudconfigpcf\CloudConfigPcfApplication.class
+com\cloud\pcf\cloudconfigpcf\ServletInitializer.class
+com\cloud\pcf\cloudconfigpcf\SecurityConfig.class

@@ -1,0 +1,6 @@
+applications:
+  - name: cloud-config-pcf
+path: target/pcf-cloud-config.war
+domain: cfapps.io
+memory: 1G
+instances: 1
